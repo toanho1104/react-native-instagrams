@@ -10,7 +10,7 @@ class App extends React.Component {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
         <Text>Hahaha</Text>
-        <Text>sdasdadsdadsdsda</Text>
+        <Text>Hichic</Text>
       </View>
     )
   }
